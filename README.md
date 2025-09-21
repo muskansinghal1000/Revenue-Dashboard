@@ -17,37 +17,28 @@ Purpose: Business performance monitoring and insights generation
 
 # 🔍 Key Highlights
 * Top-Level Metrics\
-Total Sales: ₹3M | Items Sold: 5,116 | Orders: 2,556
-Average Sales per Order: ₹983
-
+Total Sales: ₹3M | Items Sold: 5,116 | Orders: 2,556\
+Average Sales per Order: ₹983\
 Campaign Revenue (Annual): ₹17M
 
-📦 Product Sales Breakdown
-
-Bar chart visualizing revenue by product category
-
+* 📦 Product Sales Breakdown\
+Bar chart visualizing revenue by product category\
 Top performers: Pet Care (₹1.2M), Baby Care (₹1M), Cold Drinks & Juices (₹0.9M)
 
-💰 Margin Analysis by Category
-
-Treemap showing profit margins across categories
-
+* 💰 Margin Analysis by Category\
+Treemap showing profit margins across categories\
 Highest margins: Instant & Frozen Food (40%), Snacks & Munchies (35%)
 
-😊 Customer Sentiment Insights
-
+* 😊 Customer Sentiment Insights\
 Pie chart with sentiment distribution: Positive (839), Neutral (629), Negative (210)
 
-🌍 Sales Trends by City
-
+* 🌍 Sales Trends by City\
 Line chart comparing sales across metro cities: Delhi, Mumbai, Bangalore, etc.
 
-📈 Campaign Spend vs Revenue
-
+* 📈 Campaign Spend vs Revenue\
 Monthly bar chart comparing campaign investments and returns
 
-🗣️ Feedback Category Distribution
-
+* 🗣️ Feedback Category Distribution\
 Pie chart showing customer feedback themes: App Experience (40%), Delivery (30%), etc.
 
 # 🚀 Value Proposition
