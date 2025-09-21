@@ -15,7 +15,7 @@ Data Size: 5000 Orders
 
 Purpose: Business performance monitoring and insights generation
 
-# 🔍 Key Highlights
+# 📈 Key Metrics Visualized
 * Top-Level Metrics\
 Total Sales: ₹3M | Items Sold: 5,116 | Orders: 2,556\
 Average Sales per Order: ₹983\
